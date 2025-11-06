@@ -6,7 +6,7 @@
 */
 
 // setup
-radio.setGroup(1)
+radio.setGroup(0)
 basic.showIcon(IconNames.Happy)
 
 input.onButtonPressed(Button.A, function () {
